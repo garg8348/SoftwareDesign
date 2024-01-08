@@ -1,0 +1,4 @@
+Design a logging mechanism.
+
+Thought Process??
+Which Design principle to use?
