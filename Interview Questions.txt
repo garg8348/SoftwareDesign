@@ -1,0 +1,3 @@
+Explain the function callaback in HAL.
+Explain the constructor forwarding.
+What the different types of HAL?
